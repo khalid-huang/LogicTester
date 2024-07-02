@@ -1,0 +1,45 @@
+{
+    "project_name": "LogicTester",
+    "version": "1.0.0",
+    "project_id": "{AF677C47-3F48-4B91-A544-0A7E2CDFBD74}",
+    "origin": "The primary repo for LogicTester goes here: i.e. http://www.mydomain.com",
+    "license": "What license LogicTester uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "LogicTester",
+    "summary": "A short description of LogicTester.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "LogicTester"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "LogicTester",
+    "gem_names": [
+        "LogicTester",
+        "Atom",
+        "AudioSystem",
+        "AWSCore",
+        "CameraFramework",
+        "DebugDraw",
+        "DiffuseProbeGrid",
+        "EditorPythonBindings",
+        "EMotionFX",
+        "GameState",
+        "ImGui",
+        "LandscapeCanvas",
+        "LyShine",
+        "PhysX",
+        "PrimitiveAssets",
+        "PrefabBuilder",
+        "SaveData",
+        "ScriptCanvasPhysics",
+        "ScriptEvents",
+        "StartingPointInput",
+        "TextureAtlas",
+        "WhiteBox"
+    ]
+}
